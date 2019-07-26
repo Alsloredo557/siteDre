@@ -1,0 +1,26 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profandrew/storm-web.git"
+  },
+  "keywords": [
+    "produtos",
+    "gerenciador",
+    "de",
+    "produtos",
+    "storm"
+  ],
+  "author": "Andrew Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/profandrew/storm-web/issues"
+  },
+  "homepage": "https://github.com/profandrew/storm-web#readme"
+}
